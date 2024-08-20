@@ -6,7 +6,6 @@
 - [Tasks Performed.](#task-performed)
 - [Tableau DashBoard Screenshot and link.](#tableau-dashBoard-screenshot-and-link)
 - [Results and Findings.](#results-and-findings)
-- [Data Source.](#data-source)
 
 ### Project Overview:
 The Car Sales Project involves loading and cleaning the dataset, handling missing values, and dealing with outliers to prepare for analysis. Exploratory Data Analysis (EDA) is conducted to understand the distribution of key features like mileage, engine size, and year. Feature engineering steps include dropping irrelevant columns and creating dummy variables for categorical data. The project then builds a linear regression model, ensuring that OLS assumptions are met and checking for multicollinearity. After evaluating the model using R-squared metrics, further improvements are made by refining the data, such as removing specific outliers, which ultimately increases the model's accuracy by 14%.
@@ -72,5 +71,3 @@ The project involves importing necessary libraries, loading and describing the c
 - Model Improvement: Achieved a 14% increase in adjusted R-squared after refining the data.
 - Key Predictors: Mileage, engine size, and year were identified as important factors in predicting car prices.
 - Outcome: Demonstrated that careful data preparation and model optimization lead to more accurate and reliable predictions.
-
-### Data sources:
