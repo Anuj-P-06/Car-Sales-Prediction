@@ -4,7 +4,7 @@
 - [Reasons for making this project.](#reasons-for-making-this-project)
 - [Tools Used.](#tools-used)
 - [Tasks Performed.](#task-performed)
-- [Tableau DashBoard Screenshot and link.](#tableau-dashBoard-screenshot-and-link)
+- [Tableau DashBorad screenshot and link](#tableau-dashBorad-screenshot-and-link)
 - [Results and Findings.](#results-and-findings)
 
 ### Project Overview:
