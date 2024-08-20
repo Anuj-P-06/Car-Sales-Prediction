@@ -57,11 +57,14 @@ The Car Sales Project involves loading and cleaning the dataset, handling missin
 - OLS on Cleaned Data: Re-evaluation of the OLS assumptions and model on cleaned data.
 - Creating Dummies & Regression: Dummy variables are created again, and the linear regression model is re-built.
 - Adj. R-Squared: The adjusted R-squared is calculated, and it’s noted that the accuracy increased by 14% after these adjustments.
+  
 ### tl;dr:
 The project involves importing necessary libraries, loading and describing the car sales dataset, and preparing the data by dropping irrelevant columns and handling missing values. Exploratory Data Analysis (EDA) is conducted to explore distributions and manage outliers. Feature engineering refines attributes like mileage and engine. A linear regression model is built, with OLS assumptions checked and multicollinearity addressed. The model is trained, tested, and evaluated with R-squared. After removing outliers and refining the model, the adjusted R-squared accuracy improves by 14%.
 
 ### Tableau DashBorad screenshot and link:
-- 
+![Screenshot 2024-08-20 173233](https://github.com/user-attachments/assets/968c7408-101a-4faa-9a51-1c3f158af590)
+- [link for Tableau Public](https://public.tableau.com/app/profile/anuj.prasad7773/viz/Carsalesdashboard_17241498674550/WithClear)
+
 
 
 ### Results and Findings:
