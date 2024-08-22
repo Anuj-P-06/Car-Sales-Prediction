@@ -22,29 +22,29 @@ The Car Sales Project involves loading and cleaning the dataset, handling missin
 - Tableau--> Data Visualization
 
 ## Task Performed:
-1) Importing Libraries: 
+###1) Importing Libraries: 
 - The project begins with the necessary library imports, which are likely essential for data manipulation, visualization, and modeling.
-2) Loading and Describing Data:
+###2) Loading and Describing Data:
 - Loading the data: The dataset related to car sales is loaded.
 - Describing the data: The data is then described, likely using statistical summaries to understand its distribution and characteristics.
 - Dropping Model: It seems some columns or specific car models are dropped from the analysis.
 - Dealing with missing values: Missing data is handled to ensure the dataset is complete for analysis.
 
-3) Exploratory Data Analysis (EDA):
+###3) Exploratory Data Analysis (EDA):
 - Exploring Partial Distribution Function (PDF): The project explores the distribution of key variables.
 - Dealing with Outliers: Outliers are identified and dealt with to prevent them from skewing the analysis.
  
-4) Feature Engineering:
+###4) Feature Engineering:
 - Mileage, Engine, Year: Specific features like mileage, engine, and year are explored and likely transformed.
 - Cleaned Data: After processing, the data is cleaned and ready for modeling.
   
-5) Regression Analysis:
+###5) Regression Analysis:
 - OLS Assumptions: The Ordinary Least Squares (OLS) assumptions are checked to ensure they hold for linear regression.
 - Linear Regression: The dataset is prepared for linear regression analysis.
 - Multicollinearity: Multicollinearity among features is checked, likely using VIF (Variance Inflation Factor).
 - Creating Dummy Variables: Categorical variables are converted into dummy variables for the regression model.
   
-6) Model Building:
+###6) Model Building:
 - Linear Regression Model: A linear regression model is created.
 - Scaling Data: The data is scaled to standardize the features.
 - Train-Test Split: The data is split into training and testing sets.
@@ -52,7 +52,7 @@ The Car Sales Project involves loading and cleaning the dataset, handling missin
 - Checking R-Squared: The model's performance is evaluated using the R-squared metric.
  -Testing: The model is tested on the testing data.
   
-7) Model Improvement:
+###7) Model Improvement:
 - Removing Outliers: Further refinement by removing specific outliers (e.g., engine values exceeding 8.4).
 - OLS on Cleaned Data: Re-evaluation of the OLS assumptions and model on cleaned data.
 - Creating Dummies & Regression: Dummy variables are created again, and the linear regression model is re-built.
